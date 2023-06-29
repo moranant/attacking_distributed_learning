@@ -16,7 +16,7 @@ If you use this codebase, please cite it as follows:
 ```
 @article{baruch2019little,
   title={A little is enough: Circumventing defenses for distributed learning},
-  author={Baruch, Gilad and Baruch, Moran and Goldberg, Yoav},
+  author={Baruch, Moran and Baruch, Gilad and Goldberg, Yoav},
   journal={Advances in Neural Information Processing Systems},
   volume={32},
   year={2019}
